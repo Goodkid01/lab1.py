@@ -1,7 +1,7 @@
 n = 3
 arr = []
 mas = ["a", "b", "c"]
-
+print("Введите 3 числа")
 for i in range(n): 
     i = int(input())
     arr.append(i)
