@@ -17,7 +17,7 @@ def compress_string(s):
 
     return ''.join(compressed)
 
-# Пример использования
+# Пример 
 decompressed_string= "YYYYYggkkkeeeAAAABVV"
 compressed_string = compress_string(decompressed_string)
 print(compressed_string)
